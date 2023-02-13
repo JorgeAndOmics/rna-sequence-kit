@@ -35,7 +35,7 @@ This tool requires the following Python packages:
 
 ## Usage
 
-    python rna_tool.py [-h] [-a] [-m] [-e EXPORT] sequence
+    python rna_sequence_kit.py [-h] [-a] [-m] [-e EXPORT] sequence
 
 The `sequence` argument is required and should be the RNA sequence to be processed.
 
